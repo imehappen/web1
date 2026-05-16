@@ -2133,6 +2133,7 @@ ul {
   vertical-align: middle;
   padding: 0 15px;
 }
+
 .service_part .single_service_part .single_service_text span {
   width: 90px;
   height: 90px;
@@ -2148,6 +2149,7 @@ ul {
   background: -webkit-linear-gradient(0deg, rgb(171, 118, 54) 0%, rgb(215, 175, 126) 100%);
   background: -ms-linear-gradient(0deg, rgb(171, 118, 54) 0%, rgb(215, 175, 126) 100%);
 }
+
 .service_part .single_service_part .single_service_text h2 {
   font-size: 18px;
   text-transform: uppercase;
